@@ -1,0 +1,10 @@
+record_type,item,value,source_status
+source,primary_learning_source,https://support.google.com/analytics/answer/14731736,public guidance
+assumption,assumption_1,All metrics are synthetic and contain a planned tracking change in week 5.,synthetic training input
+assumption,assumption_2,No causal claim may be made from correlation alone.,synthetic training input
+assumption,assumption_3,AI calculations must be checked against spreadsheet formulas.,synthetic training input
+assumption,assumption_4,Search features and seasonality are plausible alternative causes.,synthetic training input
+question,question_1,Which metrics changed materially and at what page/query level?,learner analysis required
+question,question_2,Could definition or tracking changes explain the pattern?,learner analysis required
+question,question_3,Which hypotheses fit all available evidence?,learner analysis required
+question,question_4,What test would distinguish competing explanations?,learner analysis required

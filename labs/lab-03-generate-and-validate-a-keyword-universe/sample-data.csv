@@ -1,0 +1,10 @@
+record_type,item,value,source_status
+source,primary_learning_source,https://support.google.com/google-ads/answer/7337243,public guidance
+assumption,assumption_1,Keyword metrics are synthetic and dated 16 August 2026.,synthetic training input
+assumption,assumption_2,"Missing volume and difficulty must remain unknown, never estimated by the model.",synthetic training input
+assumption,assumption_3,Search intent requires manual SERP validation before publishing.,synthetic training input
+assumption,assumption_4,Singapore is the primary market and English is the primary language.,synthetic training input
+question,question_1,Which seeds come from real customer language?,learner analysis required
+question,question_2,Which expansions are relevant but unsupported by demand data?,learner analysis required
+question,question_3,"Which queries reveal local, comparison or purchase intent?",learner analysis required
+question,question_4,Which terms should be excluded for weak fit or compliance risk?,learner analysis required

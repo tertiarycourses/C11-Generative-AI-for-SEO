@@ -1,0 +1,10 @@
+record_type,item,value,source_status
+source,primary_learning_source,https://developers.google.com/search/docs/fundamentals/seo-starter-guide,public guidance
+assumption,assumption_1,The approved cluster is sustainable office setup for Singapore SMEs.,synthetic training input
+assumption,assumption_2,EcoDesk has access to an operations specialist for first-party examples.,synthetic training input
+assumption,assumption_3,Environmental claims require documentary support and cautious wording.,synthetic training input
+assumption,assumption_4,Existing pages may be consolidated when they serve the same intent.,synthetic training input
+question,question_1,Which terms share the same dominant intent?,learner analysis required
+question,question_2,"Which page should be pillar, support or conversion content?",learner analysis required
+question,question_3,Where could two proposed pages cannibalise each other?,learner analysis required
+question,question_4,What unique evidence makes each brief publishable?,learner analysis required

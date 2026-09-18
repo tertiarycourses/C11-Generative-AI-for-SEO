@@ -1,0 +1,10 @@
+record_type,item,value,source_status
+source,primary_learning_source,https://developers.google.com/search/docs/fundamentals/ai-optimization-guide,public guidance
+assumption,assumption_1,The page targets Singapore SME office managers.,synthetic training input
+assumption,assumption_2,The guide uses public general information and synthetic EcoDesk examples.,synthetic training input
+assumption,assumption_3,FAQ structured data is omitted unless current eligibility and visible-content requirements are met.,synthetic training input
+assumption,assumption_4,No llms.txt or special AI-only schema is presented as a Google ranking factor.,synthetic training input
+question,question_1,What direct answer should appear first?,learner analysis required
+question,question_2,Which follow-up subqueries might query fan-out retrieve?,learner analysis required
+question,question_3,What original evidence or experience improves the page?,learner analysis required
+question,question_4,Which technical controls could accidentally remove eligibility?,learner analysis required

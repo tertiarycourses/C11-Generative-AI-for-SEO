@@ -1,0 +1,10 @@
+record_type,item,value,source_status
+source,primary_learning_source,https://developers.google.com/search/docs/appearance/title-link,public guidance
+assumption,assumption_1,Product names and descriptions are fictional.,synthetic training input
+assumption,assumption_2,"No reviews, aggregate rating or certification markup may be added.",synthetic training input
+assumption,assumption_3,The canonical URL is a training placeholder and must be changed before real deployment.,synthetic training input
+assumption,assumption_4,"Title and description lengths are editorial guidance, not ranking rules.",synthetic training input
+question,question_1,Which page facts can safely appear in metadata?,learner analysis required
+question,question_2,Which generated option best matches intent and brand?,learner analysis required
+question,question_3,Which structured-data type is eligible and visible?,learner analysis required
+question,question_4,Which internal links reduce user effort?,learner analysis required

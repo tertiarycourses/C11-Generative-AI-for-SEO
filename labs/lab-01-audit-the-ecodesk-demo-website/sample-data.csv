@@ -1,0 +1,10 @@
+record_type,item,value,source_status
+source,primary_learning_source,https://developers.google.com/search/docs/essentials,public guidance
+assumption,assumption_1,"All business names, addresses, prices, testimonials and analytics are synthetic.",synthetic training input
+assumption,assumption_2,No live Search Console or customer data is required.,synthetic training input
+assumption,assumption_3,The audit must distinguish observed evidence from an AI inference.,synthetic training input
+assumption,assumption_4,The AI may recommend but must not edit files automatically in this lab.,synthetic training input
+question,question_1,"Which issues affect crawl/index eligibility, relevance, trust or conversion?",learner analysis required
+question,question_2,Which current strengths should be preserved?,learner analysis required
+question,question_3,Which recommendation has the highest impact-to-effort ratio?,learner analysis required
+question,question_4,What evidence is missing before implementation?,learner analysis required

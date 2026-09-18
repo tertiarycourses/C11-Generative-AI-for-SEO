@@ -1,0 +1,10 @@
+record_type,item,value,source_status
+source,primary_learning_source,https://developers.google.com/search/docs/essentials/spam-policies,public guidance
+assumption,assumption_1,The agent has read-only access to analytics and repository content.,synthetic training input
+assumption,assumption_2,"It cannot publish, send outreach, edit robots/canonicals or expose secrets.",synthetic training input
+assumption,assumption_3,"Every recommendation must cite a page, metric row or policy source.",synthetic training input
+assumption,assumption_4,"A human owner approves, edits and implements accepted changes.",synthetic training input
+question,question_1,What is the bounded goal and stop condition?,learner analysis required
+question,question_2,Which tools and data does the agent actually need?,learner analysis required
+question,question_3,"Which actions need preview, approval or prohibition?",learner analysis required
+question,question_4,"How will quality, drift, value and incidents be measured?",learner analysis required

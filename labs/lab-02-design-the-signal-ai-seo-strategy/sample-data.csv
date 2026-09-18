@@ -1,0 +1,10 @@
+record_type,item,value,source_status
+source,primary_learning_source,https://developers.google.com/search/docs/fundamentals/using-gen-ai-content,public guidance
+assumption,assumption_1,"The 90-day budget is S$6,000 and eight staff-days.",synthetic training input
+assumption,assumption_2,Only public and synthetic data may enter general-purpose AI tools.,synthetic training input
+assumption,assumption_3,"Publishing, outreach and technical directives require named human approval.",synthetic training input
+assumption,assumption_4,The initial agentic workflow is read-only and recommendation-only.,synthetic training input
+question,question_1,What outcome should SEO create beyond traffic?,learner analysis required
+question,question_2,Which information advantage can EcoDesk credibly own?,learner analysis required
+question,question_3,"Which tasks are suitable for copilot, workflow or agent mode?",learner analysis required
+question,question_4,Which risks require a stop rule or human approval?,learner analysis required

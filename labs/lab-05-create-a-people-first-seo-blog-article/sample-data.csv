@@ -1,0 +1,10 @@
+record_type,item,value,source_status
+source,primary_learning_source,https://developers.google.com/search/docs/fundamentals/creating-helpful-content,public guidance
+assumption,assumption_1,All examples are illustrative and must be labelled when not source-backed.,synthetic training input
+assumption,assumption_2,"The article must not claim certification, guaranteed savings or environmental impact without evidence.",synthetic training input
+assumption,assumption_3,The author is an EcoDesk workplace sustainability adviser with a transparent bio.,synthetic training input
+assumption,assumption_4,Target length is a guideline; completeness and clarity win.,synthetic training input
+question,question_1,What is the reader's main decision?,learner analysis required
+question,question_2,Which claims need sources or qualification?,learner analysis required
+question,question_3,What first-party experience can make the article non-commodity?,learner analysis required
+question,question_4,Which internal links continue the user journey?,learner analysis required

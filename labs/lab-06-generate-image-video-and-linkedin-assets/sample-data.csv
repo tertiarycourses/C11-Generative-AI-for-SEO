@@ -1,0 +1,10 @@
+record_type,item,value,source_status
+source,primary_learning_source,https://developers.google.com/search/docs/appearance/google-images,public guidance
+assumption,assumption_1,"Generated visuals may not include logos, copyrighted characters or unsupported certifications.",synthetic training input
+assumption,assumption_2,The video is a concept storyboard; learners do not need paid generation tools.,synthetic training input
+assumption,assumption_3,The LinkedIn post must not ask for reciprocal or paid links.,synthetic training input
+assumption,assumption_4,All media files use synthetic examples and are clearly labelled.,synthetic training input
+question,question_1,What job does each media asset perform?,learner analysis required
+question,question_2,What visual inaccuracies or rights risks must the prompt prevent?,learner analysis required
+question,question_3,What belongs in alt text versus a caption?,learner analysis required
+question,question_4,Why would another professional voluntarily reference the article?,learner analysis required
