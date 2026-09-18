@@ -7,7 +7,7 @@
 ![Format](https://img.shields.io/badge/courseware-PPTX%20%7C%20PDF%20%7C%20DOCX-6f42c1)
 ![Labs](https://img.shields.io/badge/labs-10-f59f00)
 
-**A two-day, hands-on course for using generative AI responsibly across SEO strategy, keyword research, content, on-page optimisation, AI search visibility, off-page distribution and measurement.**
+**A one-day, hands-on course for using generative AI responsibly across SEO strategy, keyword research, content, on-page optimisation, AI search visibility, off-page distribution and measurement.**
 
 [Register for the course](https://www.tertiarycourses.com.sg/generative-ai-for-seo.html) · [Open the live EcoDesk website](https://tertiarycourses.github.io/C11-Generative-AI-for-SEO/) · [Open the activity index](labs/README.md)
 
@@ -33,7 +33,7 @@ The fictional **EcoDesk Singapore** website is the progressive case environment.
 |---|---|
 | [Course slides](courseware/Generative%20AI%20for%20SEO-v2.0.pdf) | Highly visual, concept-led 143-slide deck; procedures are intentionally kept out of the slides |
 | [Learner Guide](courseware/LG-Generative%20AI%20for%20SEO.pdf) | Detailed concepts, scenarios, step-by-step lab procedures, checks and acceptance criteria |
-| [Lesson Plan](courseware/LP-Generative%20AI%20for%20SEO.pdf) | Two-day delivery schedule (9:30am–5:30pm) and slide/lab mapping |
+| [Lesson Plan](courseware/LP-Generative%20AI%20for%20SEO.pdf) | One-day delivery schedule (9:30am–5:30pm) and slide/lab mapping |
 | [Shared EcoDesk website](labs/ecodesk-demo-website/) | One progressive HTML/CSS/JavaScript site for all ten activities |
 | [Activity index](labs/README.md) | Entry point to the ten individual prompt-and-evidence packs |
 
